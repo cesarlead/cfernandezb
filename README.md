@@ -9,11 +9,13 @@ Aquí están las herramientas que manejo con maestría:
 
 - **Lenguajes de programación:**  
   ![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white&style=flat)  
-  ![Go](https://img.shields.io/badge/-Go-00ADD8?logo=go&logoColor=white&style=flat)  
+  ![Go](https://img.shields.io/badge/-Go-00ADD8?logo=go&logoColor=white&style=flat)
+  ![Python](https://img.shields.io/badge/-Python-00ADD8?logo=python&logoColor=white&style=flat)
   ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat)
 
 - **Frameworks:**  
-  ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?logo=spring-boot&logoColor=white&style=flat)  
+  ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?logo=spring-boot&logoColor=white&style=flat)
+  ![FastApi](https://img.shields.io/badge/-FastApi-6DB33F?logo=fastapi&logoColor=white&style=flat) 
   ![Quarkus](https://img.shields.io/badge/-Quarkus-4695EB?logo=quarkus&logoColor=white&style=flat)  
   ![Echo (Go)](https://img.shields.io/badge/-Echo-00ADD8?logo=go&logoColor=white&style=flat)
 
@@ -60,9 +62,9 @@ Aquí están las herramientas que manejo con maestría:
 ---
 
 ## 📫 **Conecta conmigo**
-🌐 [LinkedIn](https://www.linkedin.com/in/césar-fernández)  
+🌐 [LinkedIn](https://www.linkedin.com/in/cesarlead)  
 📧 cfernandez_service@outlook.com
-👾 [GitHub](https://github.com/cesar-fernandez)
+👾 [GitHub](https://github.com/cesarlead)
 
 ---
 
