@@ -9,15 +9,12 @@ Aquí están las herramientas que manejo con maestría:
 
 - **Lenguajes de programación:**  
   ![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white&style=flat)  
-  ![Go](https://img.shields.io/badge/-Go-00ADD8?logo=go&logoColor=white&style=flat)
-  ![Python](https://img.shields.io/badge/-Python-00ADD8?logo=python&logoColor=white&style=flat)
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat)
-
+  ![Kotlib](https://img.shields.io/badge/-Go-00ADD8?logo=go&logoColor=white&style=flat)
+  ![Android](https://img.shields.io/badge/-Python-00ADD8?logo=python&logoColor=white&style=flat)
+  
 - **Frameworks:**  
   ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?logo=spring-boot&logoColor=white&style=flat)
-  ![FastApi](https://img.shields.io/badge/-FastApi-6DB33F?logo=fastapi&logoColor=white&style=flat) 
   ![Quarkus](https://img.shields.io/badge/-Quarkus-4695EB?logo=quarkus&logoColor=white&style=flat)  
-  ![Echo (Go)](https://img.shields.io/badge/-Echo-00ADD8?logo=go&logoColor=white&style=flat)
 
 - **Bases de datos:**  
   ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=flat)  
@@ -37,20 +34,17 @@ Aquí están las herramientas que manejo con maestría:
 >   - CRUD completo de usuarios y facturas.  
 >   - Autenticación segura con JWT.  
 >   - Documentación automatizada con Swagger.  
-> - [Ver repositorio aquí](https://github.com/tu-repo/facturacion)
 
-📌 **Microservicio de Inventarios con Go**  
+📌 **Microservicio de Inventarios con kotlin**  
 > Una solución ligera para manejar inventarios en tiempo real, utilizando:
-> - **Framework:** Echo (Go)  
+> - **Framework:** Springboot (Kotlin)  
 > - **Mensajería:** RabbitMQ  
 > - **Base de datos:** MongoDB  
-> - [Ver repositorio aquí](https://github.com/tu-repo/inventarios)
 
 📌 **Integración con Keycloak para Autenticación**  
 > Microservicio que implementa autenticación y autorización con Keycloak:
 > - Integración completa para OAuth2 y OpenID Connect.  
 > - Escalabilidad garantizada con Docker y Kubernetes.  
-> - [Ver repositorio aquí](https://github.com/tu-repo/keycloak-integration)
 
 ---
 
