@@ -9,8 +9,8 @@ Aquí están las herramientas que manejo con maestría:
 
 - **Lenguajes de programación:**  
   ![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white&style=flat)  
-  ![Kotlib](https://img.shields.io/badge/-kotlin-00ADD8?logo=go&logoColor=white&style=flat)
-  ![Android](https://img.shields.io/badge/-android-00ADD8?logo=python&logoColor=white&style=flat)
+  ![Kotlib](https://img.shields.io/badge/-kotlin-00ADD8?logo=kotlin&logoColor=white&style=flat)
+  ![Android](https://img.shields.io/badge/-android-00ADD8?logo=android&logoColor=white&style=flat)
   
 - **Frameworks:**  
   ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?logo=spring-boot&logoColor=white&style=flat)
